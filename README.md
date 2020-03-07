@@ -9,3 +9,4 @@ Instant Use Opencv 3.4.8 for VC15
 
 大小 209,712KB
 下载地址：
+https://stuhiteducn-my.sharepoint.com/:u:/g/personal/1150700117_stu_hit_edu_cn/EarmhGtOvtNMhkFZw6gPrBcB3Q6xb21OXar84fnUcCsqHA?e=GDzO9C
