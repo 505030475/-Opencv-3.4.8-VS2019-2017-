@@ -5,7 +5,7 @@ Instant Use Opencv 3.4.8 for VC15
 这是一个已经配置好的VS工程，只要有安装好的Visual Studio（VC15  即  VS2019 --- MSVC v142 或 VS2017 --- MSVC v141），
 解压了就能用。
 
-放在U盘里测试OK。
+不需要配置windows环境变量，不需要外部的opencv配置，放在U盘里也可打开即用。
 
 大小 209,712KB
 下载地址：
